@@ -1,0 +1,22 @@
+Sitemap: https://www.kusuriexpress.com/sitemap.xml
+
+User-agent: *
+Disallow: /*&limit
+Disallow: /*?limit
+Disallow: /*&filter
+Disallow: /*?filter
+Disallow: /*?sort
+Disallow: /*&sort
+Disallow: /*?order
+Disallow: /*&order
+Disallow: /*?route=checkout/
+Disallow: /*?route=account/
+Disallow: /*?route=product/search
+Disallow: /*?route=product/isearch
+Disallow: /*?route=affiliate/
+Disallow: /*?route=feed/
+Disallow: /qna/tag/
+Disallow: /catalog/view/adsmart_search/
+Disallow: /admin/
+
+Disallow: /index.php?route=product/product/review&product_id=*
